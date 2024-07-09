@@ -1,0 +1,71 @@
+P_Product,P_Productname
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account
+AR.RET.1110,Free Chequing Free Debit
+AR.RET.1140,Unlimited Chequing Account
+AR.RET.1150,Elevate Chequing Account

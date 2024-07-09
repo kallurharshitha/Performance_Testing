@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=T24_Feb
+project.version=8.4
+project.original.version=8.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=8.1.1
+product.original.version=7.5.0
+project.is-open-test-settings-after-upload=true
+project.id=963f3e5f-ccd8-4eaf-95e0-e5b5a44a5ebc
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
